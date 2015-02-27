@@ -39,7 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Layout\Mine.cs" />
+    <Compile Include="Layout\Cell.cs" />
     <Compile Include="Layout\Minefield.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
