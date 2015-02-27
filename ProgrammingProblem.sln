@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.Application", "ProgrammingProblem\Minesweeper.Application.csproj", "{C697BE02-51CD-4F0A-B06D-549743E7D82D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.Interfaces", "Minesweeper.Interfaces\Minesweeper.Interfaces.csproj", "{ECA58756-FEE8-4A11-B62B-09518621D8FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.Business", "Minesweeper.Business\Minesweeper.Business.csproj", "{479E1A14-09A4-430A-B197-1F6B48EDB331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.Model", "Minesweeper.Model\Minesweeper.Model.csproj", "{850BD615-746D-4B21-8F38-EF232B2717CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.DependencyInjection", "Minesweeper.DependencyInjection\Minesweeper.DependencyInjection.csproj", "{66AD5158-9583-444E-B36E-F048667D1082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.Exceptions", "Minesweeper.Exceptions\Minesweeper.Exceptions.csproj", "{890B4C20-3E52-4C68-A230-D10B8D5AD8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C697BE02-51CD-4F0A-B06D-549743E7D82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C697BE02-51CD-4F0A-B06D-549743E7D82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C697BE02-51CD-4F0A-B06D-549743E7D82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C697BE02-51CD-4F0A-B06D-549743E7D82D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA58756-FEE8-4A11-B62B-09518621D8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA58756-FEE8-4A11-B62B-09518621D8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA58756-FEE8-4A11-B62B-09518621D8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA58756-FEE8-4A11-B62B-09518621D8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479E1A14-09A4-430A-B197-1F6B48EDB331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479E1A14-09A4-430A-B197-1F6B48EDB331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479E1A14-09A4-430A-B197-1F6B48EDB331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479E1A14-09A4-430A-B197-1F6B48EDB331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850BD615-746D-4B21-8F38-EF232B2717CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850BD615-746D-4B21-8F38-EF232B2717CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850BD615-746D-4B21-8F38-EF232B2717CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850BD615-746D-4B21-8F38-EF232B2717CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AD5158-9583-444E-B36E-F048667D1082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AD5158-9583-444E-B36E-F048667D1082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AD5158-9583-444E-B36E-F048667D1082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AD5158-9583-444E-B36E-F048667D1082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890B4C20-3E52-4C68-A230-D10B8D5AD8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890B4C20-3E52-4C68-A230-D10B8D5AD8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890B4C20-3E52-4C68-A230-D10B8D5AD8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890B4C20-3E52-4C68-A230-D10B8D5AD8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
